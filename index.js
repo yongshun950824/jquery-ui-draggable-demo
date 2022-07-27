@@ -1,6 +1,3 @@
-// Import stylesheets
-import './style.css';
-
 var draggables = [
   { name: 'Red', offset: {}, clicked: false },
   { name: 'Green', offset: {}, clicked: false },

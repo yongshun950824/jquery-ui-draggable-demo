@@ -11,7 +11,6 @@ h2 {
 .draggable {
   width: 100px;
   height: 100px;
-  /* margin: 1rem; */
   border: 1px solid black;
   text-align: center;
   vertical-align: middle;
