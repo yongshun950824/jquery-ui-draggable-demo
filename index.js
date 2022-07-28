@@ -1,3 +1,6 @@
+// Import CSS, Comment before checkin
+// import './style.css';
+
 var draggables = [
   { name: 'Red', offset: {}, clicked: false },
   { name: 'Green', offset: {}, clicked: false },
